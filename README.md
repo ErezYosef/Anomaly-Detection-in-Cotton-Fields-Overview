@@ -1,4 +1,4 @@
-# Anomaly Detection in Cotton Fields Overview :seedling:
+# Anomaly Detection in Cotton Fields - Overview :seedling:
 Project with Agricultural Research Organization, Volcani Center and  **Tel-Aviv University, Israel.**
 
 :fire:  Buzzwords : `Deep-Learning`, `Computer-Vision`, `CNN`, `Anomaly-Detection`
