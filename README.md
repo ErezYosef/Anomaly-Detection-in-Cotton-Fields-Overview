@@ -1,6 +1,6 @@
-# Anomaly Detection in Cotton Fields Overview
+# Anomaly Detection in Cotton Fields Overview :seedling:
 Project with Agricultural Research Organization, Volcani Center and  **Tel-Aviv University, Israel.**
-
+Buzzword :fire: : 'Deep-Learning', 'Computer-Vision', 'CNN', 'Anomaly-Detection'
 ## Introduction
 Monitoring an agricultural fields can be a complicated problem.
  A mature field looks like dense and large carpet.
